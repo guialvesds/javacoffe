@@ -10,7 +10,7 @@ public class exercicio_do_while {
         Scanner sc = new Scanner(System.in);
 
         char resp;
-
+        // O bloco de código dentro do do será executado pelo menos uma vez, e depois a condição é verificada. Se a condição for verdadeira, o bloco de código será executado novamente. Se a condição for falsa, o loop será encerrado.
         do {
             System.out.print("Digite a temperatura em Celsius: ");
             double C = sc.nextDouble();
