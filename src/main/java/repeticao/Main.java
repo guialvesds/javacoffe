@@ -1,4 +1,4 @@
-package enquanto;
+package repeticao;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package enquanto;
+package repeticao;
 
 import java.util.Locale;
 import java.util.Scanner;
