@@ -10,7 +10,7 @@ public class exercicio_for {
 
         int soma = 0;
 
-        for(int i = 0; i < N; i++){
+        for(int i = 0; i < N; i++){ //Estrutura de repetição for, onde i é a variável de controle, que inicia em 0, e vai até N-1, incrementando 1 a cada iteração
             int x = sc.nextInt();
             soma += x;
         }
